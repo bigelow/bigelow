@@ -14,4 +14,4 @@ I build and operate the shared developer infrastructure, fleets, and automation 
 Adobe · Apple · Cisco/WebEx · Nexenta  
 Build and release systems, developer infrastructure, and platform ownership.
 
-[LinkedIn](https://linkedin.com/in/shannonbigelow) · [bigelow.github.io](https://bigelow.github.io) · [X](https://x.com/sbigelow)
+[LinkedIn](https://linkedin.com/in/shannonbigelow) · [bigelow.github.io](https://bigelow.github.io) · [X](https://x.com/sbigelow92)
